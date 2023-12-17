@@ -1,1 +1,2 @@
 # GuessTheNumber
+GuessTheNumber-MiniGame is a collaborative repository dedicated to a mini-game in which the user tries to guess a randomly generated number between 1 and 10. The game is simple yet engaging, requiring intuitive prediction and strategy from the player. The repository was created as a platform for collaboration, where two authors have presented their unique implementations of the same game concept
